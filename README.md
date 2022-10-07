@@ -99,3 +99,4 @@ Now submit the pull request.
 <img style="float: right;" src="images/compare.png" alt="submit pull request" />
 
 Soon I'll be merging all your changes into the master branch of this project. You will get a notification email once the changes have been merged.
+Thank you Everyone!
